@@ -1,5 +1,6 @@
 // write your code below!
+
 function happyHolidays() {
-  var = "Happy holidays!";
+  var happy = "Happy holidays!";
 return("Happy holidays!");
 }
